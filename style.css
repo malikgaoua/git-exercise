@@ -1,1 +1,8 @@
-.produc
+.product {
+    background-color: brown;
+    color: darkgreen;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
